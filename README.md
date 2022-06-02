@@ -70,4 +70,4 @@ Un utilisateur veut allouer un matériel non disponible ou épuisé
 1. Hasher les mots de passes des utilisateurs en utilisant un algorithme asymétrique  (**bCrypt** par exemple)
 1. Utilser **l'AOP** pour gérer l'authentification;
 1. Utiliser une table de rôles : un utilisateur peut avoir plusieurs rôles à la fois;
-1. créer des test un1.aires avec **Junit**.
+1. créer des test unitaires avec **Junit**.
